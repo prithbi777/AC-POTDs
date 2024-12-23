@@ -1,7 +1,7 @@
 /*
 Author: Prithbiraj Mahanta
 Date: 23-12-2024
-TaskNo: 2
+TaskNo: 1
 Platform: Leetcode
 Problem: 1365
 
