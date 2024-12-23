@@ -58,7 +58,7 @@ class Solution {
 
 
 
-        //OPTIMIZED CODE(TRY TO UNDERSTAND THE PROBLEM FIRST)
+        //OPTIMIZED CODE(TRY TO UNDERSTAND THE PROBLEM FIRST)(AND DRY RUN TOO)
         int moves = 0;
         int i = 0;
 
