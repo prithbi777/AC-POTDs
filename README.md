@@ -1,3 +1,3 @@
-# AC-POTD
+# AC-POTDs
 Solution of POTDs 
 
